@@ -2,8 +2,8 @@ function mostraNome(nome) {
     return nome
 }
 
-function mostraSobrenome(sobrenome) {
-    return sobrenome;
+function mostraSobrenome(sobrenome, sobrenome) {
+    return nome + sobrenome;
 }
 
 
